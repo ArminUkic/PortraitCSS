@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap');
+*
+{
+margin: 0;
+padding: 0;
+box-sizing:border-box ;
+font-family: 'Poppins' sans-serif;
+}
+
+section {
+    height: 100vh;
+    overflow: hidden;
+    background: rgb(0, 0, 0);
+
+}
+p 
+{
+position: relative;
+font-size: 1.5em;
+letter-spacing: -0.05em;
+line-height: 0.5em;
+background: url(https://scontent.fskp4-1.fna.fbcdn.net/v/t39.30808-6/276129676_5249386515072063_1095746378651312192_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=tvhgipLz4oAAX9f3ub0&_nc_ht=scontent.fskp4-1.fna&oh=00_AT_o60Zan_J1VI0xytALm4emAsBXRz1soosaWt07E4uuog&oe=633A5C5B);
+background-blend-mode: color-dodge;
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
+-webkit-background-clip: text;
+color: transparent;
+} 
